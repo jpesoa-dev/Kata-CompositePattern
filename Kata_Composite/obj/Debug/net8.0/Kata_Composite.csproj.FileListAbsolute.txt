@@ -1,0 +1,29 @@
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\bin\Debug\net8.0\Kata_Composite.exe
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\bin\Debug\net8.0\Kata_Composite.deps.json
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\bin\Debug\net8.0\Kata_Composite.runtimeconfig.json
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\bin\Debug\net8.0\Kata_Composite.dll
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\bin\Debug\net8.0\Kata_Composite.pdb
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.AssemblyInfoInputs.cache
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.AssemblyInfo.cs
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.csproj.CoreCompileInputs.cache
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.dll
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\refint\Kata_Composite.dll
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.pdb
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\Kata_Composite.genruntimeconfig.cache
+C:\Users\jpesoa\source\repos\Kata_Composite\Kata_Composite\obj\Debug\net8.0\ref\Kata_Composite.dll
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\bin\Debug\net8.0\Kata_Composite.exe
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\bin\Debug\net8.0\Kata_Composite.deps.json
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\bin\Debug\net8.0\Kata_Composite.runtimeconfig.json
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\bin\Debug\net8.0\Kata_Composite.dll
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\bin\Debug\net8.0\Kata_Composite.pdb
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.AssemblyInfoInputs.cache
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.AssemblyInfo.cs
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.csproj.CoreCompileInputs.cache
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.sourcelink.json
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.dll
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\refint\Kata_Composite.dll
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.pdb
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\Kata_Composite.genruntimeconfig.cache
+C:\JPESOA\Cursos\Patrones de diseño\Kata CompositePattern\Kata-CompositePattern\Kata_Composite\obj\Debug\net8.0\ref\Kata_Composite.dll
