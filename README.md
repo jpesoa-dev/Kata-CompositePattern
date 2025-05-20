@@ -1,0 +1,2 @@
+# Kata-CompositePattern
+Kata-CompositePattern
